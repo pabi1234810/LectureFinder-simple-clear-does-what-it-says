@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+pandas
+google-api-python-client
+
